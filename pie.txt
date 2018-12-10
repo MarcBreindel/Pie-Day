@@ -5,3 +5,5 @@ flour
 butter
 cloves
 vanilla
+plums
+craisins
