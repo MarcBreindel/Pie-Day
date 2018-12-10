@@ -4,3 +4,4 @@ cinnamon
 flour
 butter
 cloves
+vanilla
