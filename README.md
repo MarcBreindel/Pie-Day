@@ -11,3 +11,5 @@ Christmas Pie
    -- chocolate paste
    -- poppy seed paste
    -- apricot paste
+* Colored Cream
+* Ham minced pie
