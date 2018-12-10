@@ -3,3 +3,4 @@ pumpkin
 cinnamon
 flour
 butter
+cloves
